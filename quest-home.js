@@ -282,7 +282,7 @@
     footer.style.cssText = 'display: flex; gap: 8px; margin-top: 10px;';
 
     const supportBtn = document.createElement('a');
-    supportBtn.href = 'https://discord.gg/6avqEupteU';
+    supportBtn.href = 'https://discord.gg/5Md2fFHv3W';
     supportBtn.target = '_blank';
     supportBtn.style.cssText = 'flex: 1; background: #2b2d31; color: #fff; text-decoration: none; padding: 8px; border-radius: 6px; text-align: center; font-size: 11px; font-weight: 600; display: flex; align-items: center; justify-content: center; gap: 5px; transition: background 0.2s;';
     supportBtn.innerHTML = `
