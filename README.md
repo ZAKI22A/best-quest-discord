@@ -5,7 +5,7 @@
 
 <p>Extension that automatically completes Discord quests. No more manually watching videos or playing games - just click a button and let it run quests one by one automatically and work for all devices.</p>
 
-<a href="https://discord.gg/fdRbPfn4N"><img src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"></a>
+<a href="https://discord.gg/5Md2fFHv3W"><img src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"></a>
 <a href="https://github.com/your-username/BEST-Quests/releases"><img src="https://img.shields.io/badge/Download-Extension-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Download Extension"></a>
 
 </div>
